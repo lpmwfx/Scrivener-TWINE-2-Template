@@ -10,7 +10,7 @@ Kindly
 LarsPM
 Denmark
 
-***************************************CODE FILE*************************************************
+CODE FILE
 
 
 <tw-storydata name="Twine Template V2" startnode="0" creator="Twine" creator-version="2.2.1" ifid="025675AE-55C7-4841-8346-F81057838E01"
